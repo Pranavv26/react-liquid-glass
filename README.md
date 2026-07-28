@@ -25,8 +25,8 @@ Built to learn spring-based animation, global state management with Zustand, and
 
 ```bash
 # clone the repo
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Pranavv26/react-liquid-glass.git
+cd react-liquid-glass
 
 # install dependencies
 npm install
